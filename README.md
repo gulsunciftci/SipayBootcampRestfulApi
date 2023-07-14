@@ -1,0 +1,2 @@
+# SipayBootcampRestfulApi
+with DotNet6
