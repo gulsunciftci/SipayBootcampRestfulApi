@@ -75,7 +75,7 @@ Merhaba, bu projede bir Restful Api geliştirdim. Projemden bahsetmeden önce ge
 * Model binding işlemleri hem body den hemde query den yapılacak şekilde örneklendirilmiş durumda.
 * Standart crud işlemlerine ek olarak, listeleme ve sıralama işlevlerini içeriyor.
 
-# Restful Api Geliştirirken Kullandığım Teknolojiler şu şekildedi:
+# Restful Api Geliştirirken Kullandığım Teknolojiler:
 
 * .Net Core
 * C# dili
