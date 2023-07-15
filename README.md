@@ -75,6 +75,14 @@ Merhaba, bu projede bir Restful Api geliştirdim. Projemden bahsetmeden önce ge
 * Model binding işlemleri hem body den hemde query den yapılacak şekilde örneklendirilmiş durumda.
 * Standart crud işlemlerine ek olarak, listeleme ve sıralama işlevlerini içeriyor.
 
+# Restful Api Geliştirirken Kullandığım Teknolojiler şu şekildedi:
+
+* .Net Core
+* C# dili
+* Entity Framework Core
+* Repository Design Pattern
+  
+
 1) Model Oluşturma
 
 İlk olarak Model katmanında Post isminde modelimi oluşturdum. Daha sonra Modelime ona özgü property'leri ekledim. Model aslında bizim veritabanımızda yer alan tablolara karşılık gelen classlarımızdır.Yani veritabanı üzerindeki her bir tablo için biz uygulama tarafında model oluşturmalıyız. 
