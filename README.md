@@ -127,3 +127,12 @@ PM > Update-Database
 * En son artık Controllers katmanına Controller ekleme kısmına geçtim ve Post isminde bir Controller ekledim. Daha sonra Controller içerisine istediğim bütün Http metotlarımı ekledim. Metotlar ve Metot açıklamalarım proje içerisinde bulunuyor.
 
 📁 [PostController.cs](https://github.com/gulsunciftci/SipayBootcampRestfulApi/blob/main/SipayBootcampApi/PatikaSipayDotNetRestfulApi/Controllers/PostController.cs)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
