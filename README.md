@@ -83,6 +83,8 @@ Merhaba, bu projede bir Restful Api geliştirdim. Projemden bahsetmeden önce ge
 * Repository Design Pattern
   
 
+# Aşamalar:
+
 1) Model Oluşturma
 
 İlk olarak Model katmanında Post isminde modelimi oluşturdum. Daha sonra Modelime ona özgü property'leri ekledim. Model aslında bizim veritabanımızda yer alan tablolara karşılık gelen classlarımızdır.Yani veritabanı üzerindeki her bir tablo için biz uygulama tarafında model oluşturmalıyız. 
