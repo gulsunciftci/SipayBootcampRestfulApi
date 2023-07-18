@@ -1,4 +1,4 @@
-# Asp .Net Core Web Api .Net 6.0 ile Restful Api Geliştirme 👩‍💻
+# Asp .Net Core 6.0 ile Restful Web Api Geliştirme 👩‍💻
 
 Merhaba, bu projede bir Restful Api geliştirdim. Projemden bahsetmeden önce gelin birlikte bazı terimlerin anlamlarına ve nerelerde kullanıldıklarına bakalım. 
 
